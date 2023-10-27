@@ -1,0 +1,243 @@
+li {
+  display: inline;
+  margin-right: 10px;
+  color: gray;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+li:hover {
+  color: #00b39b;
+}
+header {
+  width: 70%;
+  margin-inline: auto;
+  position: relative;
+}
+.title {
+  font-size: 35px;
+  color: #00b39b;
+}
+#section1 {
+  width: 71%;
+  margin-inline: auto;
+  margin-top: 50px;
+  text-align: center;
+  height: 250px;
+}
+.description {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  justify-items: center;
+  width: 99%;
+  margin-left: 20px;
+  color: gray;
+  font-size: 19px;
+}
+.carte {
+  height: 350px;
+  width: 400px;
+  color: white;
+  padding: 7px;
+  font-size: 25px;
+  background: #00b39b;
+}
+.work {
+  background: #00ccb1;
+  border: 500px;
+  width: 300px;
+  height: 350px;
+  margin-top: 20px;
+  margin-block-end: 5px;
+  border-radius: 20px;
+  align-items: start;
+}
+.parent-cartes {
+  display: flex;
+  text-align: center;
+  margin-left: 195px;
+  justify-content: space-between;
+  width: 71%;
+  height: 100;
+  border-radius: 10px;
+  margin-top: 80px;
+ 
+}
+.titre-description {
+  font-size: 30px;
+}
+.nom {
+  color: white;
+}
+.row {
+  background: blue;
+}
+.vpn {
+  font-size: 30px;
+}
+.section3 {
+  background: #3d83df;
+  border: 500px;
+  width: 300px;
+  height: 350px;
+  margin-top: 20px;
+  margin-block-end: 5px;
+  color: white;
+  border-radius: 20px;
+}
+.web {
+  background: #1b2734;
+  border: 500px;
+  width: 300px;
+  height: 350px;
+  margin-top: 20px;
+  margin-block-end: 5px;
+  color: white;
+  border-radius: 20px;
+}
+.section- {
+  color: aquamarine;
+  margin-left: 190px;
+  font-size: 25px;
+  margin-top: 60px;
+  display: flex;
+}
+
+.icone {
+  height: 30px;
+
+  display: flex;
+}
+.tuotempo {
+  width: 140px;
+  height: 32px;
+}
+.Mame {
+  display: column;
+  text-align: center;
+  padding: 2px;
+}
+.besty {
+  display: flex;
+  cursor: pointer;
+  padding: 5px;
+}
+.besty:hover {
+  color: #00ccb1;
+}
+svg {
+    margin: px;
+    margin-top: 3px;
+    font-size: 3px;
+    margin-left: 10px;
+    flex-wrap: wrap;
+}
+.ma-section {
+  background-color: aquamarine;
+ margin-bottom: 40px;
+ 
+ }
+ .ensemble{
+  display: flex;
+  margin-left:180px;
+  margin-top: 20px;
+
+ }
+ .api{
+  background-color: rgb(209, 250, 236);
+  display: flex; 
+  justify-content: space-around;
+  margin-top: 90px;
+ }
+ .title1 {
+  font-size: 30px;
+  color: #5ef1de;
+  }
+  .poland{
+     color: grey;
+  }
+  .trier{
+    background-color: white;
+    text-align: center;
+    width:  240px;
+    margin-bottom: 2em; 
+    margin-left: 10px;
+  }
+  .email{
+    display: flex;
+    justify-content: space-between;
+  }
+  .self{
+    text-align: center;
+    margin-top: 90px;
+  }
+  .ref{
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .foot4{
+    display: flex;
+    align-items: 10px;
+    margin-left: 10px;
+  }
+  .mark{
+    width: 110px;
+    background-color: rgb(83, 83, 228);
+    color: white;
+    height:   30px;
+    border: 0;
+    margin-top: 20px;
+    font-size: 10px;
+    margin-left: 40px;
+   
+  }
+  .ref{
+    margin-left: -40px;
+  }
+  .remi{
+ background-color: white;
+ box-shadow: gray;
+  }
+  .ensemble2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 90px;
+    text-align: center;
+  }
+  .remi1{
+    background-color: white;
+    margin-left: -53em;
+  }
+  .marky{
+    text-align: center;
+    margin-top: 40px;
+  }
+  .mark1{
+    color: gray;
+    font-size: 30px;
+  }
+  .mark5{
+    width: 200px;
+    background-color: rgb(83, 83, 228);
+    color: white;
+    height:   30px;
+    border: 0;
+    margin-top: 8px;
+    font-size: 10px;
+    margin-left: 40px;
+  }
+  .marky1{
+    text-align: center;
+    margin-top: 90px;
+  }
+  strong{
+    color: blue;
+    
+  }
+  strong:hover{
+    text-decoration: underline;
+  }
+
+  
